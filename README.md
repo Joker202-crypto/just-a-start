@@ -1,2 +1,2 @@
-# just-a-start
+Tictactoe
 This is my first project with html and css
